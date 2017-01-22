@@ -11,7 +11,11 @@ that people think are very hard and complicated and black magic, but in reality,
 writing a bit about maybe neural networks, and about how to build really basic speech recognizers (and about speech synthesis afterwards). First, though,
 I'll try updating the projects page and my home page, since there's a few things I made that I really like that aren't really listed anywhere.
 
-Anyways, lets hope I actually manage to not completely lose interest after two weeks. If you like, you can follow me via RSS (The extremely large icon on the left),
-but if you follow me on Any Social Media At All, I'll probably be cross-posting articles there, also.
+Anyways, lets hope I actually manage to not completely lose interest after two weeks. Hopefully, the work that went into making the theme is enough
+to make me actually want to get some use out of it ([here's an example of all it can do](/blog/pages/titles-are-fake-actually-sometimes-titles-are-really-long-test-one-two/)).
+If you like, you can follow me via RSS (The extremely large icon on the left), but if you follow me on Any Social Media At All, I'll probably be 
+cross-posting articles there, also.
+
+If you're curious about using Pelican, the site-generator that runs this, yourself, I have [my config and theme up on github](https://github.com/halcy/halcy-de-blog/tree/master).
 
 Here's to another try at this!

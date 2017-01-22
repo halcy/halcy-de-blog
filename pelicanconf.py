@@ -51,8 +51,6 @@ TAG_SAVE_AS = 'tags/{slug}/index.html'
 AUTHORS_SAVE_AS = None
 CATEGORIES_SAVE_AS = None
 TAGS_SAVE_AS = None
-AUTHOR_SAVE_AS = None
-CATEGORY_SAVE_AS = None
 
 # Better pagination
 PAGINATION_PATTERNS = (

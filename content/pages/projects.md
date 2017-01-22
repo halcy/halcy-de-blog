@@ -8,7 +8,8 @@ CYBER DEFENSE 2200
 
 During AGDQ, I participated in a game jam, [GAMES MADE QUICK???](https://itch.io/jam/games-made-quick/rate/111740). 
 [CYBER DEFENSE 2200](https://halcy.itch.io/cyber-defense-2200) is the result of that. It's a fairly simple-minded space shooter,
-with a very 8-bit aesthetic, not the least because it uses fixed point math, software rasterization and a RGB332 palette throughout.
+with a very 8-bit aesthetic, not the least because it uses fixed point math, software rasterization and a RGB332 palette throughout. There's
+a soundtrack with four tracked songs, and [@SaltyTuna](https://twitter.com/SaltyTuna) made some cute art for the title/game over/you win screens!
 
 You can find a few binaries (Windows, Ubuntu, OS X) [on itch.io](https://halcy.itch.io/cyber-defense-2200). Source code is [available on
 github](https://halcy.itch.io/cyber-defense-2200).

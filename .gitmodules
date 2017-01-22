@@ -1,0 +1,3 @@
+[submodule "theme/brutalist-mage"]
+	path = theme/brutalist-mage
+	url = https://github.com/halcy/brutalist-mage.git

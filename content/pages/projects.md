@@ -11,10 +11,10 @@ During AGDQ, I participated in a game jam, [GAMES MADE QUICK???](https://itch.io
 with a very 8-bit aesthetic, not the least because it uses fixed point math, software rasterization and a RGB332 palette throughout. There's
 a soundtrack with four tracked songs, and [@SaltyTuna](https://twitter.com/SaltyTuna) made some cute art for the title/game over/you win screens!
 
-You can find a few binaries (Windows, Ubuntu, OS X) [on itch.io](https://halcy.itch.io/cyber-defense-2200). Source code is [available on
-github](https://halcy.itch.io/cyber-defense-2200).
-
 ![Cyber Defense 2200 screenshot.]({filename}/images/cyber_defense_2200.png "Cyber Defense 2200 screenshot.")
+
+You can find a few binaries (Windows, Ubuntu, OS X) [on itch.io](https://halcy.itch.io/cyber-defense-2200). Source code, including source for the music and the 3D models,
+is [available on github](https://halcy.itch.io/cyber-defense-2200).
 
 Quasicrystals-Bot
 -----------------

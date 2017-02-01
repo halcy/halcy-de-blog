@@ -114,7 +114,8 @@ A horizontal rule follows.
 and images can be specified like so:
 
 ![a sine]({filename}/images/sinus_echt.png "sine!")
-*with captions!*
+
+*I am going to deduct every point I can justifiably deduct from your grade.*{: .caption}
 
 smaller:
 

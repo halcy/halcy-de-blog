@@ -84,9 +84,10 @@ MARKDOWN = {
         'markdown.extensions.extra': {},
         'markdown.extensions.meta': {},
         'markdown.extensions.fenced_code': {},
-		'markdown.extensions.smarty': {},
-		'markdown.extensions.tables': {},
-		'markdown.extensions.toc': {},
+        'markdown.extensions.smarty': {},
+        'markdown.extensions.tables': {},
+        'markdown.extensions.toc': {},
+        'markdown.extensions.attr_list': {},
     },
     'output_format': 'html5',
 }

@@ -3,7 +3,7 @@ Tags: science
 Filed: I understand now why the Cracked people use this long-form listicle style, it's so fun to write
 
 If you are a student, or Doing Science proper, you'll sometimes have to give
-presentations about research, as a student, most obviously in seminars. There are a bunch
+presentations about research, as a student, mostly in seminars. There are a bunch
 of ways in which a talk like this can be bad, most obviously, if the content of the talk is
 rubbish. This is hard to avoid -- but some other things really aren't. 
 

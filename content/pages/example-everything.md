@@ -114,6 +114,7 @@ A horizontal rule follows.
 and images can be specified like so:
 
 ![a sine]({filename}/images/sinus_echt.png "sine!")
+*with captions!*
 
 smaller:
 

@@ -1,6 +1,8 @@
 Title: Initial Post
 Tags: meta
-
+Filed: are slashdot style filed-under categories an integral part of this template? you bet!
+Date: 2017-01-22
+	
 Hi! I'm halcy! If you're reading this, you probably know me already, or (as there surely are a lot of posts here now) like scrolling back in archives. 
 I used to have a proper blog, but I got tired of it and deleted it, and it probably wasn't a very good blog anyways.
 

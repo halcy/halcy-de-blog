@@ -64,17 +64,17 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 # Plugins: readmore inline, math, responsive images
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = {
-	'summary',
-	'render_math',
-	'better_figures_and_images',
+    'summary',
+    'render_math',
+    'better_figures_and_images',
 }
 
 # Good math settings
 MATH_JAX = {
-	'responsive': 'true',
-	'responsive_break': 600,
-	'process_summary': False,
-	'show_menu': False,
+    'responsive': 'true',
+    'responsive_break': 600,
+    'process_summary': False,
+    'show_menu': False,
 }
 
 # Lots of markdown!

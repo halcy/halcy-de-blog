@@ -13,5 +13,6 @@ from pelicanconf import *
 # Absolute URLs
 RELATIVE_URLS = False
 
-# Generate comment snippets
-DISQUS_SITENAME = "halcy-de"
+# Generate comments snippet, now with isso
+# DISQUS_SITENAME = "halcy-de"
+ISSO_LOCATION = 'https://halcy.de/blog/comments'
